@@ -54,4 +54,7 @@ The dataset contains the following parameters:
 ## 🚀 How to Run
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/ShahriyarBhutto/Insurance-Cost-Analysis.git
+   cd Insurance-Cost-Analysis
 
